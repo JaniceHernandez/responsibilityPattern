@@ -10,9 +10,8 @@ In this implementation:
 
 This design ensures that the ATM system dispenses cash in the specified denominations according to the requested amount.
 
----
-
 ## UML Class Diagram
+<img width="2050" height="1309" alt="atm_disperse_program UML Diagram" src="https://github.com/user-attachments/assets/b4734776-f022-4fa6-ab79-aeb40a8faad2" />
 
 ## Components
 
